@@ -1,0 +1,21 @@
+# ninja log v6
+1	23	1744824712630039033	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	883c2059515534df
+1	23	1744824712630039033	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	883c2059515534df
+24	2860	1744824715466293109	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	cd21895010aa79ca
+24	2860	1744824715466293109	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	cd21895010aa79ca
+2860	2910	1744824715466801354	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	a93b27095cf998ac
+2860	2910	1744824715466801354	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	a93b27095cf998ac
+2910	2928	1744824715534547967	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	b3e5fd1c1440545c
+2910	2928	1744824715534547967	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	b3e5fd1c1440545c
+2928	2948	1744824715554272352	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	707d93b3db84f85e
+2928	2948	1744824715554272352	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	707d93b3db84f85e
+2948	2966	1744824715572552961	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	4bed9a5a18b1c501
+2948	2966	1744824715572552961	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	4bed9a5a18b1c501
+2966	2985	1744824715591402605	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	cd7d01b28f13b18
+2966	2985	1744824715591402605	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	cd7d01b28f13b18
+2985	3004	1744824715610583413	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	50b010be7e0c62a3
+2985	3004	1744824715610583413	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	50b010be7e0c62a3
+3004	3028	1744824715634774671	CMakeFiles/googletest-populate-complete	b1ac5fc6e249b54f
+3004	3028	1744824715634774671	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b1ac5fc6e249b54f
+3004	3028	1744824715634774671	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	b1ac5fc6e249b54f
+3004	3028	1744824715634774671	/Users/matveyd/CLionProjects/OOP/Lab2/OOP_MAI-lab2_oop_mai/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b1ac5fc6e249b54f

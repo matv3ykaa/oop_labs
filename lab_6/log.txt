@@ -1,0 +1,73 @@
+
+Murder --------
+killer: Magomed { x:36, y:72} 
+victim: George { x:30, y:82} 
+Murder --------
+killer: George { x:30, y:82} 
+victim: Magomed { x:36, y:72} 
+Murder --------
+killer: Arkadij { x:86, y:83} 
+victim: Natalie { x:59, y:90} 
+Murder --------
+killer: Serega { x:62, y:21} 
+victim: Petya { x:40, y:26} 
+Murder --------
+killer: Ivan { x:67, y:68} 
+victim: Natalie { x:59, y:90} 
+Murder --------
+killer: Akakij { x:67, y:23} 
+victim: Petya { x:40, y:26} 
+Murder --------
+killer: Serega { x:62, y:21} 
+victim: Ivan { x:67, y:68} 
+Murder --------
+killer: Akakij { x:67, y:23} 
+victim: Ivan { x:67, y:68} 
+Murder --------
+killer: Viktor { x:93, y:15} 
+victim: Arkadij { x:86, y:83} 
+Murder --------
+killer: Serega { x:62, y:21} 
+victim: Arkadij { x:86, y:83} 
+Murder --------
+killer: Akakij { x:67, y:23} 
+victim: Arkadij { x:86, y:83} 
+Murder --------
+killer: Akakij { x:67, y:23} 
+victim: Valera { x:92, y:86} 
+Murder --------
+killer: Magomed { x:36, y:72} 
+victim: George { x:30, y:82} 
+Murder --------
+killer: George { x:30, y:82} 
+victim: Magomed { x:36, y:72} 
+Murder --------
+killer: Arkadij { x:86, y:83} 
+victim: Natalie { x:59, y:90} 
+Murder --------
+killer: Serega { x:62, y:21} 
+victim: Petya { x:40, y:26} 
+Murder --------
+killer: Ivan { x:67, y:68} 
+victim: Natalie { x:59, y:90} 
+Murder --------
+killer: Akakij { x:67, y:23} 
+victim: Petya { x:40, y:26} 
+Murder --------
+killer: Serega { x:62, y:21} 
+victim: Ivan { x:67, y:68} 
+Murder --------
+killer: Akakij { x:67, y:23} 
+victim: Ivan { x:67, y:68} 
+Murder --------
+killer: Viktor { x:93, y:15} 
+victim: Arkadij { x:86, y:83} 
+Murder --------
+killer: Serega { x:62, y:21} 
+victim: Arkadij { x:86, y:83} 
+Murder --------
+killer: Akakij { x:67, y:23} 
+victim: Arkadij { x:86, y:83} 
+Murder --------
+killer: Akakij { x:67, y:23} 
+victim: Valera { x:92, y:86} 

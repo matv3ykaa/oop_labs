@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -Werror=maybe-uninitialized -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab2_exe.dir/src/main.cpp.o CMakeFiles/lab2_exe.dir/include/solution.cpp.o -o lab2_exe

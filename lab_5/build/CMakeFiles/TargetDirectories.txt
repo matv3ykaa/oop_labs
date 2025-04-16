@@ -1,0 +1,7 @@
+/Users/matveyd/CLionProjects/OOP/Lab5/build/CMakeFiles/CustomAllocator.dir
+/Users/matveyd/CLionProjects/OOP/Lab5/build/CMakeFiles/main_app.dir
+/Users/matveyd/CLionProjects/OOP/Lab5/build/CMakeFiles/test_app.dir
+/Users/matveyd/CLionProjects/OOP/Lab5/build/CMakeFiles/edit_cache.dir
+/Users/matveyd/CLionProjects/OOP/Lab5/build/CMakeFiles/rebuild_cache.dir
+/Users/matveyd/CLionProjects/OOP/Lab5/build/googletest/CMakeFiles/edit_cache.dir
+/Users/matveyd/CLionProjects/OOP/Lab5/build/googletest/CMakeFiles/rebuild_cache.dir

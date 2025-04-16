@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmain_lib.a CMakeFiles/main_lib.dir/figures/triangle.cpp.o CMakeFiles/main_lib.dir/figures/octagon.cpp.o CMakeFiles/main_lib.dir/figures/square.cpp.o CMakeFiles/main_lib.dir/figures/polygon.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmain_lib.a

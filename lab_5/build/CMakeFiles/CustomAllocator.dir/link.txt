@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libCustomAllocator.a CMakeFiles/CustomAllocator.dir/libs/Allocator_lib/Allocator.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libCustomAllocator.a
